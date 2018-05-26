@@ -1,0 +1,36 @@
+.burger-display{
+    margin-top: 10px;
+}
+.burger-display h3{
+    display: inline;
+    margin-right: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    color: maroon;
+}
+.burger-devoured h3{
+    color: darkgray;
+}
+.devour-button{
+    background-color: darkred;
+    border-color: maroon;
+}
+.panel-heading{
+    font-family: 'Ubuntu', sans-serif;
+    color: maroon;
+}
+.jumbotron{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    color: maroon;
+    text-shadow: 10px, 10px, maroon;
+    /* text-decoration: underline; */
+}
+#title{
+    font-family: 'Ubuntu', sans-serif;
+    color: maroon;
+    text-shadow: 10px, 10px, maroon;
+    text-decoration: underline;
+}
+.col-md-5{
+    /* background-color: #eee; */
+}
